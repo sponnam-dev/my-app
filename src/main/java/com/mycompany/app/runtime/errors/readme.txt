@@ -1,0 +1,1 @@
+Runtime errors & exceptions which are occurred in web application.
